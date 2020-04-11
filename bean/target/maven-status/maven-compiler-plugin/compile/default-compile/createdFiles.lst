@@ -1,0 +1,17 @@
+com\saury\bean\BaseCatalog3.class
+com\saury\bean\SpuImage.class
+com\saury\bean\SpuSaleAttr.class
+com\saury\bean\BaseAttrValue.class
+com\saury\bean\BaseCatalog2.class
+com\saury\bean\BaseSaleAttr.class
+com\saury\bean\SkuImage.class
+com\saury\bean\SkuInfo.class
+com\saury\bean\SpuSaleAttrValue.class
+com\saury\bean\SkuAttrValue.class
+com\saury\bean\SkuSaleAttrValue.class
+com\saury\bean\BaseAttrInfo.class
+com\saury\bean\UserAddress.class
+com\saury\bean\Student.class
+com\saury\bean\SpuInfo.class
+com\saury\bean\UserInfo.class
+com\saury\bean\BaseCatalog1.class

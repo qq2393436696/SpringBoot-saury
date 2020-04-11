@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gmall-user-manage-0.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/user-manage/target/gmall-user-manage-0.0.1-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

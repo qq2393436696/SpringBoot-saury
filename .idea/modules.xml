@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/user-manage/.mvn/.mvn.iml" filepath="$PROJECT_DIR$/user-manage/.mvn/.mvn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Springboot.iml" filepath="$PROJECT_DIR$/Springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bean/bean.iml" filepath="$PROJECT_DIR$/bean/bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-util/common-util.iml" filepath="$PROJECT_DIR$/common-util/common-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fastdfs-client-java/fastdfs-client-java.iml" filepath="$PROJECT_DIR$/fastdfs-client-java/fastdfs-client-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface/interface.iml" filepath="$PROJECT_DIR$/interface/interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manage-service/manage-service.iml" filepath="$PROJECT_DIR$/manage-service/manage-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manage-web/manage-web.iml" filepath="$PROJECT_DIR$/manage-web/manage-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/parent.iml" filepath="$PROJECT_DIR$/parent/parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-util/service-util.iml" filepath="$PROJECT_DIR$/service-util/service-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-util/web-util.iml" filepath="$PROJECT_DIR$/web-util/web-util.iml" />
+    </modules>
+  </component>
+</project>

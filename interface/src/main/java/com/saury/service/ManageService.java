@@ -14,7 +14,7 @@ public interface ManageService {
     List<BaseCatalog1> getCatalog1();
 
     /**
-     * 根据一级分类Id 查询二级分类数据
+     * 根据一级分类Id 查询二级分类数据 tst
      * select * from baseCatalog2 where catalog1Id =?
      * @param catalog1Id
      * @return

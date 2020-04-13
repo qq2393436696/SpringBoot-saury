@@ -18,13 +18,13 @@
             <artifactId>common-util</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
-        <!--页面模板-->
+       <!-- &lt;!&ndash;页面模板&ndash;&gt;
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-thymeleaf</artifactId>
-        </dependency>
+        </dependency>-->
 
-        <!--松校验-->
+       <!-- &lt;!&ndash;松校验&ndash;&gt;
         <dependency>
             <groupId>net.sourceforge.nekohtml</groupId>
             <artifactId>nekohtml</artifactId>
@@ -36,7 +36,7 @@
         <dependency>
             <groupId>org.apache.xmlgraphics</groupId>
             <artifactId>batik-ext</artifactId>
-        </dependency>
+        </dependency>-->
 
 
 

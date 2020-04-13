@@ -30,8 +30,8 @@ public class FileUploadController {
 
         // 当文件不为空的时候，进行上传！test
         if (file!=null){
-            //String configFile  = this.getClass().getResource("/tracker.conf").getFile();
-            String configFile="/opt/web/tracker.conf";
+            String configFile  = this.getClass().getResource("/tracker.conf").getFile();
+          //  String configFile="/opt/web/tracker.conf";
             ClientGlobal.init(configFile);
             TrackerClient trackerClient=new TrackerClient();
             // 获取连接

@@ -123,11 +123,11 @@
                 <version>${mapper-starter.version}</version>
             </dependency>
 
-            <dependency>
+        <!--    <dependency>
                 <groupId>redis.clients</groupId>
                 <artifactId>jedis</artifactId>
                 <version>${jedis.version}</version>
-            </dependency>
+            </dependency>-->
 
             <!-- https://mvnrepository.com/artifact/io.searchbox/jest -->
             <dependency>
